@@ -1,0 +1,7 @@
+for\_102\_nbpg\_try\_2 module
+=============================
+
+.. automodule:: for_102_nbpg_try_2
+   :members:
+   :undoc-members:
+   :show-inheritance:
